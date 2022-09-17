@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **DamitusThyYeetus123/DamitusThyYeetus123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
+#### Current Student
+- Learning various programming branches over 7 years
+  - Web Development
+  - OS Development
+  - Game Development
+  - Blockchain Development
+  - AI and simulation development
