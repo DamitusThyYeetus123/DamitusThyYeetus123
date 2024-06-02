@@ -20,5 +20,4 @@ ___
   - Web Development
   - OS Development
   - Game Development
-  - Blockchain Development
-  - AI and simulation development
+  - Simulation development
