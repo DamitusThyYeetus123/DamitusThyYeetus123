@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ___
 #### Current Student
-- Learning various programming branches over 7 years
+- Learning various programming branches over 10 years
   - Web Development
   - OS Development
   - Game Development
